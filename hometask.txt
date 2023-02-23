@@ -1,0 +1,21 @@
+Commits that exit in demo but don't exist in master:
+Merge branch 'buttons' into demo Andrew Khodzhakhanov 29.06.2016 2:29
+Merge branch 'boots' into release Andrew Khodzhakhanov 29.06.2016 0:55
+Commits that exit in master but dont exest in demo:
+Merge branch 'boots_buttons' ArtemAvanesov 4 minutes ago
+Merge remote-tracking branch 'origin/hat' ArtemAvanesov 4 minutes ago
+Merge remote-tracking branch 'origin/buttons' into boots_buttons ArtemAvanesov 7 minutes ago
+Merge remote-tracking branch 'origin/boots' into boots_buttons ArtemAvanesov 7 minutes ago
+fix readme Andrew Khodzhakhanov 29.06.2016 2:29
+
+10 comments
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
